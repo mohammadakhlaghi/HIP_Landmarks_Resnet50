@@ -23,9 +23,5 @@ The data that support the findings of this study are available from the correspo
 ## 🔍 Related Work
 This project is developed in collaboration with **Mahdie Aghasi**, who initially proposed a **VGG-based two-stage model** for hip landmark detection. You can find the original work [here](https://github.com/MahdieAghasi/HipLandmarkDetection).
 
-
-## 📝 License
-This project is licensed under **[Your Chosen License]**.
-
 ---
 Feel free to reach out in case of any questions or contributions!
