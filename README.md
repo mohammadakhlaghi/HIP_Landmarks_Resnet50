@@ -17,6 +17,11 @@ Please cite our article if you use this model in your research.
 - **Dataset:** 854 images and landmark as label.
 - **Performance:** Achieves improved accuracy compared to the previous VGG-based approach.
 
+## 📌 Overview
+Hip anatomical landmark detection plays a key role in **preoperative planning for hip replacement arthroplasty**. Precise localization of these landmarks enables accurate measurement of hip parameters, leading to better surgical outcomes.
+
+![Example of landmark detection](point.png)
+
 ## 📊 Data Availability
 The data that support the findings of this study are available from the corresponding author upon reasonable request.
 
