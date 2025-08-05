@@ -20,7 +20,7 @@ Please cite our article if you use this model in your research.
 ## 📌 Overview
 Hip anatomical landmark detection plays a key role in **preoperative planning for hip replacement arthroplasty**. Precise localization of these landmarks enables accurate measurement of hip parameters, leading to better surgical outcomes.
 
-<img src="points1.png" alt="Example of landmark detection" width="600"/>
+<img src="Points1.png.png" alt="Example of landmark detection" width="600"/>
 
 ## 📊 Data Availability
 The data that support the findings of this study are available from the corresponding author upon reasonable request.
